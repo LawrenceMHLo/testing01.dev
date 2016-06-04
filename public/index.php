@@ -56,3 +56,4 @@ $response = $kernel->handle(
 $response->send();
 
 $kernel->terminate($request, $response);
+<html><body><h1>Hello! it's working!</h1></body></html>
